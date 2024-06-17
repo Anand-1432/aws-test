@@ -4,7 +4,7 @@ const app = express();
 const port = 3000;
 
 const data = [{
-    name: "anand",
+    name: "anand rao gaikwad",
     batch: 2024,
     age: 22
 }]
